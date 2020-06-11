@@ -5,7 +5,7 @@ from world import World
 import random
 from ast import literal_eval
 
-# Load world
+# Load world 
 world = World()
 
 
